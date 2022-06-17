@@ -1,0 +1,19 @@
+segment_sources:
+  I311B11AB:
+    type: origin_type
+    relation: translation
+    language: en
+  ICFA8A0A3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0da7bdd59849469ba3fa84af11e981c6:
+    I311B11AB: 1c9e6427871240ccba2bdb5c1af51b49
+    ICFA8A0A3: 83df341e257349719748348a5a84b782
+  a017d9c960854b1e9a17fe0bde0ce547:
+    I311B11AB: 0490e683451a4a5fbfcafdc6403af307
+    ICFA8A0A3: c41c3b7f8eb24479a053215c13cb65d4
+  d718bac3409545639fdc170c721fbae6:
+    I311B11AB: 5be997abd0dd49f8ab605d14f48b27c4
+    ICFA8A0A3: 666df42da51c4cfc88e434f5031de787
